@@ -1,0 +1,40 @@
+Code,Details,Abbreviation,Group
+UNTREAT1,Untreated conditions,UNTREAT,UNTREAT
+UNTREAT2,Untreated conditions,UNTREAT,UNTREAT
+UNTREAT3,Untreated conditions,UNTREAT,UNTREAT
+T_1,TNF treatment,T_1,T
+T_2,TNF treatment,T_2,T
+T_3,TNF treatment,T_3,T
+M_1,MTB treatment,M_1,M
+M_2,MTB treatment,M_2,M
+M_3,MTB treatment,M_3,M
+TM_1,TNF + MTB treatment,TM_1,TM
+TM_2,TNF + MTB treatment,TM_2,TM
+TM_3,TNF + MTB treatment,TM_3,TM
+TMR_1,TNF + MTB + RocA,TMR_1,TMR
+TMR_2,TNF + MTB + RocA,TMR_2,TMR
+TMR_3,TNF + MTB + RocA,TMR_3,TMR
+TMI_1,TNF + MTB + ISRIB,TMI_1,TMI
+TMI_2,TNF + MTB + ISRIB,TMI_2,TMI
+TMI_3,TNF + MTB + ISRIB,TMI_3,TMI
+TMRI_1,TNF + MTB + RocA + ISRIB,TMRI_1,TMRI
+TMRI_2,TNF + MTB + RocA + ISRIB,TMRI_2,TMRI
+TMRI_3,TNF + MTB + RocA + ISRIB,TMRI_3,TMRI
+TM_b_1,TNF + MTB treatment,TM_b_1,TM_
+TM_b_2,TNF + MTB treatment,TM_b_2,TM_
+TM_b_3,TNF + MTB treatment,TM_b_3,TM_
+TMR_b_1,TNF + MTB + RocA,TMR_b_1,TMR_
+TMR_b_2,TNF + MTB + RocA,TMR_b_2,TMR_
+TMR_b_3,TNF + MTB + RocA,TMR_b_3,TMR_
+TMS_1,TNF + MTB + SP600125,TMS_1,TMS
+TMS_2,TNF + MTB + SP600125,TMS_2,TMS
+TMS_3,TNF + MTB + SP600125,TMS_3,TMS
+TMH_1,TNF + MTB + Helicin,TMH_1,TMH
+TMH_2,TNF + MTB + Helicin,TMH_2,TMH
+TMH_3,TNF + MTB + Helicin,TMH_3,TMH
+TMRS_1,TNF + MTB + RocA + SP,TMRS_1,TMRS
+TMRS_2,TNF + MTB + RocA + SP,TMRS_2,TMRS
+TMRS_3,TNF + MTB + RocA + SP,TMRS_3,TMRS
+TMRH_1,TNF + MTB + RocA + Helicin,TMRH_1,TMRH
+TMRH_2,TNF + MTB + RocA + Helicin,TMRH_2,TMRH
+TMRH_3,TNF + MTB + RocA + Helicin,TMRH_3,TMRH
