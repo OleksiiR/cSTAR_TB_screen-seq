@@ -1,0 +1,19 @@
+,genotype,treatment ,concentration
+U1_B6_NT_1,wt,no,0
+U2_B6_NT_2,wt,no,0
+U3_B6_2ng_1,wt,TNFa,2
+U4_B6_2ng_2,wt,TNFa,2
+U5_B6_10ng_1,wt,TNFa,10
+U6_B6_10ng_2,wt,TNFa,10
+U7_B6_50ng_1,wt,TNFa,50
+U8_B6_50ng_2,wt,TNFa,50
+U9_NTC1,NAN,NAN,0
+V1_1h_NT_1,1h,no,0
+V2_1h_NT_2,1h,no,0
+V3_1h_2ng_1,1h,TNFa,2
+V4_1h_2ng_2,1h,TNFa,2
+V5_1h_10ng_1,1h,TNFa,10
+V6_1h_10ng_2,1h,TNFa,10
+V7_1h_50ng_1,1h,TNFa,50
+V8_1h_50ng_2,1h,TNFa,50
+V9_NTC2,NAN,NAN,0

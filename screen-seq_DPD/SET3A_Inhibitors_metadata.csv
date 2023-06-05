@@ -1,0 +1,64 @@
+sample,TNF,Rocaglate,time between TNF added,plate#,replicate
+A01_Untreated,0,0,0,1,1
+A02_Untreated,0,0,0,1,2
+A03_Untreated,0,0,0,1,3
+A04_TNF alpha 10ng/ul,10 ng/ul,0,0,1,1
+A05_TNF alpha 10ng/ul,10 ng/ul,0,0,1,2
+A06_TNF alpha 10ng/ul,10 ng/ul,0,0,1,3
+A16_Rocaglate 10nM,10 ng/ul,10 nM,0,1,1
+A17_Rocaglate 10nM,10 ng/ul,10 nM,0,1,2
+A18_Rocaglate 10nM,10 ng/ul,10 nM,0,1,3
+A19_Rocaglate 30nM,10 ng/ul,30 nM,0,1,1
+A20_Rocaglate 30nM,10 ng/ul,30 nM,0,1,2
+A21_Rocaglate 30nM,10 ng/ul,30 nM,0,1,3
+A22_Rocaglate 100nM,10 ng/ul,100 nM,0,1,1
+A23_Rocaglate 100nM,10 ng/ul,100 nM,0,1,2
+A24_Rocaglate 100nM,10 ng/ul,100 nM,0,1,3
+A28_Rocaglate 30nM (NO TNFa),0,30 nM,0,1,1
+A29_Rocaglate 30nM (NO TNFa),0,30 nM,0,1,2
+A30_Rocaglate 30nM (NO TNFa),0,30 nM,0,1,3
+B28_Untreated,0,0,0,1,1
+B29_Untreated,0,0,0,1,2
+B30_Untreated,0,0,0,1,3
+C01_Untreated_2h,0,0,2h,2,1
+C02_Untreated_2h,0,0,2h,2,2
+C03_Untreated_2h,0,0,2h,2,3
+C04_TNF alpha 10ng/ul_2h,10 ng/ul,0,2h,2,1
+C05_TNF alpha 10ng/ul_2h,10 ng/ul,0,2h,2,2
+C06_TNF alpha 10ng/ul_2h,10 ng/ul,0,2h,2,3
+C16_Rocaglate 10nM_2h,10 ng/ul,10 nM,2h,2,1
+C17_Rocaglate 10nM_2h,10 ng/ul,10 nM,2h,2,2
+C18_Rocaglate 10nM_2h,10 ng/ul,10 nM,2h,2,3
+C19_Rocaglate 30nM_2h,10 ng/ul,30 nM,2h,2,1
+C20_Rocaglate 30nM_2h,10 ng/ul,30 nM,2h,2,2
+C21_Rocaglate 30nM_2h,10 ng/ul,30 nM,2h,2,3
+C22_Rocaglate 100nM_2h,10 ng/ul,100 nM,2h,2,1
+C23_Rocaglate 100nM_2h,10 ng/ul,100 nM,2h,2,2
+C24_Rocaglate 100nM_2h,10 ng/ul,100 nM,2h,2,3
+C28_Rocaglate 30nM (NO TNFa)_2h,0,30 nM,2h,2,1
+C29_Rocaglate 30nM (NO TNFa)_2h,0,30 nM,2h,2,2
+C30_Rocaglate 30nM (NO TNFa)_2h,0,30 nM,2h,2,3
+D28_Untreated_2h,0,0,2h,2,1
+D29_Untreated_2h,0,0,2h,2,2
+D30_Untreated_2h,0,0,2h,2,3
+E01_Untreated_6h,0,0,6h,3,1
+E02_Untreated_6h,0,0,6h,3,2
+E03_Untreated_6h,0,0,6h,3,3
+E04_TNF alpha 10ng/ul_6h,10 ng/ul,0,6h,3,1
+E05_TNF alpha 10ng/ul_6h,10 ng/ul,0,6h,3,2
+E06_TNF alpha 10ng/ul_6h,10 ng/ul,0,6h,3,3
+E16_Rocaglate 10nM_6h,10 ng/ul,10 nM,6h,3,1
+E17_Rocaglate 10nM_6h,10 ng/ul,10 nM,6h,3,2
+E18_Rocaglate 10nM_6h,10 ng/ul,10 nM,6h,3,3
+E19_Rocaglate 30nM_6h,10 ng/ul,30 nM,6h,3,1
+E20_Rocaglate 30nM_6h,10 ng/ul,30 nM,6h,3,2
+E21_Rocaglate 30nM_6h,10 ng/ul,30 nM,6h,3,3
+E22_Rocaglate 100nM_6h,10 ng/ul,100 nM,6h,3,1
+E23_Rocaglate 100nM_6h,10 ng/ul,100 nM,6h,3,2
+E24_Rocaglate 100nM_6h,10 ng/ul,100 nM,6h,3,3
+E28_Rocaglate 30nM (NO TNFa)_6h,0,30 nM,6h,3,1
+E29_Rocaglate 30nM (NO TNFa)_6h,0,30 nM,6h,3,2
+E30_Rocaglate 30nM (NO TNFa)_6h,0,30 nM,6h,3,3
+F28_Untreated_6h,0,0,6h,3,1
+F29_Untreated_6h,0,0,6h,3,2
+F30_Untreated_6h,0,0,6h,3,3
